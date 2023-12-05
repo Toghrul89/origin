@@ -1,4 +1,7 @@
 #!/usr/bin/env bash” 
+
+echo "Hello Hello"
+
 failed=0
 
 run_tests() {
